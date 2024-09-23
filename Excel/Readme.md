@@ -1,4 +1,4 @@
-## Excel : 
+## Excel 
 To achieve the objectives of the Zomato Restaurant Data Analysis project, various advanced Excel functions were used, including:
 
 #### Functions : VLOOKUP and SWITCH functions played a crucial role in generating custom columns tailored to project specifications.
