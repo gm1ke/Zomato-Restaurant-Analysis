@@ -4,6 +4,8 @@ To achieve the objectives of the Zomato Restaurant Data Analysis project, variou
 #### Functions : VLOOKUP and SWITCH functions played a crucial role in generating custom columns tailored to project specifications.
 
 #### Power Query Editor : Power Query Editor was used to streamline data processing, encompassing data cleaning and transformation, and enable the creation of a cuisine count table.
+#### Data Model snapshot :
+![Model_snapo](https://github.com/user-attachments/assets/7075b99d-a29f-4bce-a064-1ff83caac61c)
 
 #### Power Pivot : Power Pivot was used to define relationships between tables, supporting the development of interactive and customizable PivotCharts.
 
